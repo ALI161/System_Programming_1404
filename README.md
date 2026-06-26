@@ -1,10 +1,7 @@
-# System_Programming_1404
-System Programming course exercises — Sadjad University
-
-
 # System Programming - Python
 
-This repository contains my System Programming course assignments implemented in Python.
+System Programming course exercises — Sadjad University
+1404-1405
 
 ## Topics
 
